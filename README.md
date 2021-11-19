@@ -8,9 +8,7 @@ development. Looking for challenging and growth-oriented opportunities where I c
 
 Skills:  REACT /Node/Express/MongoDB/ JS / HTML / CSS /Boostrap5 / Material UI
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Advance React.js , Node.js, Data Structure and Algorithms 
-- 🤔 I’m looking for help with d 
 - 📫 How to reach me: email mdfirozmia321@gmail.com 
 - ⚡ Fun fact: I can play guitar  
 
