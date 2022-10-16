@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Firoz
-#### I am Front End Web Developer
+#### I am MERN stack Developer
 A self-motivated, hard-working, and highly energetic person with a clear
 understanding of the role and responsibilities associated with being a
 software developer. Having an ability to support and sustain a positive work
